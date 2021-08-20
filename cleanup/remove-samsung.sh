@@ -90,6 +90,7 @@ com.samsung.storyservice
 com.samsung.voiceserviceplatform
 flipboard.boxer.app
 com.samsung.android.homemode
+com.sec.android.app.samsungapps
 "
 
 for p in $PACKAGES; do

@@ -1,17 +1,16 @@
 #!/bin/bash
 
+#com.amazon.appmanager #  Amazon app
+#com.amazon.mShop.android.shopping #  Amazon app related
+#com.booking #  Booking app
+#com.baidu.input_huawei #  Huawei chinese stock input keyboard
+#com.ironsource.appcloud.oobe.huawei #  Download Essential Apps
+#com.hicloud.android.clone #  Clone device
+#com.swiftkey.swiftkeyconfigurator #  SwiftKey factory settings
+#com.touchtype.swiftkey #  SwiftKey Keyboard (Empfehlung: Gboard)
+
 PACKAGES="
-com.android.bips
-com.android.egg
-com.android.hotwordenrollment.okgoogle
-com.android.hotwordenrollment.xgoogle
-com.android.printspooler
-com.android.providers.downloads.ui
-com.android.providers.partnerbookmarks
-com.android.sharedstoragebackup
-com.android.vpndialogs
-com.android.wallpapercropper
-com.android.wallpaper.livepicker
+com.example.android.notepad
 com.cnn.mobile.android.phone.edgepanel
 com.diotek.sec.lookup.dictionary
 com.dsi.ant.plugins.antplus
@@ -19,14 +18,6 @@ com.dsi.ant.sample.acquirechannels
 com.dsi.ant.server
 com.dsi.ant.service.socket
 com.enhance.gameservice
-com.google.android.feedback
-com.google.android.googlequicksearchbox
-com.google.android.onetimeinitializer
-com.google.android.partnersetup
-com.google.android.printservice.recommendation
-com.google.android.projection.gearhead
-com.google.ar.core
-com.google.vr.vrcore
 com.mobeam.barcodeService
 com.osp.app.signin
 com.sec.android.app.bluetoothtest

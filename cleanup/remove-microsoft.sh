@@ -6,6 +6,7 @@ com.microsoft.skydrive
 com.microsoft.office.onenote
 com.microsoft.office.word
 com.microsoft.office.powerpoint
+com.microsoft.translator
 "
 
 for p in $PACKAGES; do

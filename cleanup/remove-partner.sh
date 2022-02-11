@@ -5,6 +5,9 @@ com.netflix.mediaclient
 com.netflix.partner.activation
 de.axelspringer.yana.zeropage
 com.google.android.partnersetup
+com.amazon.mp3
+com.ebay.carrier
+com.ebay.mobile
 "
 
 for p in $PACKAGES; do

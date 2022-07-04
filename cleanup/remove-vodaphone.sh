@@ -9,6 +9,7 @@ com.vodafone.sn.vpn
 com.vodafone.smhs
 com.vodafone.vodafone360updates
 com.wsandroid.suite.vodaemea
+com.appseleration.android.selfcare
 "
 
 for p in $PACKAGES; do

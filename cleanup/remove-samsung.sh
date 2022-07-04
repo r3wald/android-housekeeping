@@ -132,6 +132,9 @@ com.vlingo.midas
 com.sec.android.widgetapp.SPlannerAppWidget
 com.sec.android.app.videoplayer
 com.sec.android.app.music
+com.samsung.android.keyguardwallpaperupdator
+com.samsung.android.video
+com.samsung.android.themecenter
 "
 
 for p in $PACKAGES; do

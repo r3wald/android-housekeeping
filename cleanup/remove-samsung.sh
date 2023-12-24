@@ -16,6 +16,7 @@ com.samsung.android.app.camera.sticker.facearexpression.preload
 com.samsung.android.app.camera.sticker.facearframe.preload
 com.samsung.android.app.camera.sticker.facear.preload
 com.samsung.android.app.camera.sticker.stamp.preload
+com.samsung.android.app.contacts
 com.samsung.android.app.clipboardedge
 com.samsung.android.app.cocktailbarservice
 com.samsung.android.app.dressroom
@@ -34,10 +35,12 @@ com.samsung.android.aremoji
 com.samsung.android.authfw
 com.samsung.android.aware.service
 com.samsung.android.bbc.bbcagent
+com.samsung.android.beaconmanager
+com.samsung.android.calendar
 com.samsung.android.bluelightfilter
 com.samsung.android.clipboarduiservice
 com.samsung.android.da.daagent
-com.samsung.android.dqagent
+com.samsung.android.dqagentWItzigerweise
 com.samsung.android.drivelink.stub
 com.samsung.android.easysetup
 com.samsung.android.email.provider
@@ -50,6 +53,7 @@ com.samsung.android.game.gos
 com.samsung.android.gametuner.thin
 com.samsung.android.hmt.vrshell
 com.samsung.android.hmt.vrsvc
+com.samsung.android.honeyboard
 com.samsung.android.kidsinstaller
 com.samsung.android.livestickers
 com.samsung.android.mateagent
@@ -82,6 +86,9 @@ com.samsung.android.voc
 com.samsung.android.wellbeing
 com.samsung.android.widgetapp.yahooedge.finance
 com.samsung.android.widgetapp.yahooedge.sport
+com.samsung.android.keyguardwallpaperupdator
+com.samsung.android.video
+com.samsung.android.themecenter
 com.samsung.app.highlightplayer
 com.samsung.app.newtrim
 com.samsung.clipboardsaveservice
@@ -108,6 +115,7 @@ com.sec.android.app.wlantest
 com.sec.android.cover.ledcover
 com.sec.android.daemonapp
 com.sec.android.desktopmode.uiservice
+com.sec.android.easyMover
 com.sec.android.easyMover.Agent
 com.sec.android.easyonehand
 com.sec.android.mimage.avatarstickers
@@ -132,9 +140,6 @@ com.vlingo.midas
 com.sec.android.widgetapp.SPlannerAppWidget
 com.sec.android.app.videoplayer
 com.sec.android.app.music
-com.samsung.android.keyguardwallpaperupdator
-com.samsung.android.video
-com.samsung.android.themecenter
 "
 
 for p in $PACKAGES; do

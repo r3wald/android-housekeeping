@@ -1,0 +1,6 @@
+com.microsoft.office.excel
+com.microsoft.skydrive
+com.microsoft.office.onenote
+com.microsoft.office.word
+com.microsoft.office.powerpoint
+com.microsoft.translator

@@ -1,0 +1,48 @@
+android.qvaoverlay.common
+cn.wps.xiaomi.abroad.lite # Mi Doc Viewer
+com.agoda.mobile.consumer # Agoda: Book Hotels and Flights
+com.alibaba.aliexpresshd # Aliexpress
+com.amazon.appmanager # Amazon
+com.amazon.mShop.android.shopping # Amazon
+com.audible.application # Audible
+com.aura.oobe.deutsche # Vodaphone App Box
+com.booking # Booking.com
+com.bsp.catchlog # Catchlog
+com.crazy.juicer.xm # Crazy Juicer
+com.dti.bouyguestelecom # Bouygues Telecom
+com.dti.telefonica # Telefonica
+com.duokan.phone.remotecontroller # Mi Remote Controller
+com.miui.android.fashiongallery # Mi Wallpaper Carousel
+com.facebook.appmanager # Facebook
+com.facebook.katana # Facebook
+com.facebook.services # Facebook
+com.facebook.system # Facebook
+com.goodix.gftest
+com.huaqin.diaglogger # ???
+com.huaqin.factory # ???
+com.huaqin.sarcontroller # ???
+com.jewelsblast.ivygames.Adventure.free # Jewels
+# com.lbe.security.miui
+com.linkedin.android # LinkedIn
+com.logame.eliminateintruder3d
+# com.mi.AutoTest
+com.microsoft.bing # Bing
+com.mintgames.triplecrush.tile.fun #
+com.miui.analytics # Mi Analytics
+com.miui.android.fashiongallery
+com.miui.player # Miui Music
+com.netflix.mediaclient # Netflix
+com.opera.browser # Opera
+com.opera.preinstall # Opera
+com.orange.aura.oobe # Orange
+com.qeeq.android
+com.reachjunction.card.game.solitaire
+# com.riteshsahu.SMSBackupRestore # SMS Backup Restore
+com.snapchat.android
+# com.spotify.music # Spotify
+com.sukhavati.gotoplaying.bubble.BubbleShooter.mint #
+com.tencent.soter.soterserver # Soter Payment Services
+com.xiaomi.joyose # Ad Analytics Tracker
+com.zhiliaoapp.musically # Tiktok
+de.telekom.appstarter # Telekom
+de.telekom.tsc # Telekom
